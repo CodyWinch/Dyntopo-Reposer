@@ -21,7 +21,7 @@
 bl_info = {
     "name": "Dyntopo Reposer",
     "version": (1, 0),
-    "author": "Cody Winchester",
+    "author": "Cody Winchester (codywinch)",
     "blender": (2, 78, 0),
     "description": "Reposing dynamic topology sculpts",
     "location": "Sculpt tab of the Tool Shelf",
